@@ -1,0 +1,182 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="C:/xampp/htdocs/xampp-project1/index.php" timestamp="1535352416775">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="2" column="5" />
+        <mark key="]" line="2" column="9" />
+        <mark key="." line="2" column="9" />
+        <mark key="^" line="2" column="9" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1535977170515">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/phpstorm-workshop/workshop/02_Editing/01_Completion/1.1_Basic_Completion.php" timestamp="1535446712613">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/phpstorm-workshop/workshop/06_Debugging/01_Simple_Breakpoint.php" timestamp="1535446063070">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="31" column="0" />
+        <mark key="." line="31" column="0" />
+      </file>
+      <file name="/fragment.php" timestamp="1535960974982">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" timestamp="1535438055969">
+        <mark key="'" line="1869" column="6" />
+        <mark key="[" line="1871" column="6" />
+        <mark key="]" line="1871" column="0" />
+        <mark key="." line="1871" column="0" />
+        <mark key="^" line="1871" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1535960902411">
+        <mark key="[" line="41" column="4" />
+        <mark key="]" line="41" column="4" />
+        <mark key="." line="41" column="4" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1535992757277">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="4" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
+        <mark key="[" line="1" column="32" />
+        <mark key="]" line="1" column="86" />
+        <mark key="." line="1" column="86" />
+        <mark key="^" line="1" column="86" />
+      </file>
+      <file name="/PHP Console" timestamp="1535966303687">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/xampp3-localhost-inplace/index.php" timestamp="1535366651318">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="4" column="1" />
+        <mark key="." line="4" column="1" />
+        <mark key="^" line="4" column="1" />
+      </file>
+      <file name="&lt;a0e508f8-a658-4975-ba82-96d8aae9127a&gt;/etc/apache2/sites-available/10-default_vhost_80.conf" timestamp="1535443428928">
+        <mark key="'" line="13" column="24" />
+        <mark key="[" line="8" column="3" />
+        <mark key="]" line="8" column="3" />
+        <mark key="." line="8" column="3" />
+      </file>
+      <file name="C:/xampp/htdocs/xampp3-localhost-inplace/notes.txt" timestamp="1535367111008">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="11" column="19" />
+        <mark key="]" line="11" column="34" />
+        <mark key="." line="11" column="34" />
+        <mark key="^" line="11" column="34" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/index.php" timestamp="1535966179425">
+        <mark key="[" line="1" column="24" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="2" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
+      <jump line="1" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
+      <jump line="0" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
+      <jump line="0" column="0" filename="C:/xampp/htdocs/xampp3-localhost-inplace/index.php" />
+      <jump line="2" column="0" filename="C:/xampp/htdocs/xampp3-localhost-inplace/notes.txt" />
+      <jump line="223" column="0" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" />
+      <jump line="1869" column="6" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" />
+      <jump line="13" column="24" filename="&lt;a0e508f8-a658-4975-ba82-96d8aae9127a&gt;/etc/apache2/sites-available/10-default_vhost_80.conf" />
+      <jump line="12" column="6" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="7" column="4" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ZW5kaWYK</text>
+      </register>
+      <register name="-" type="4">
+        <text>;</text>
+      </register>
+      <register name="/" type="4">
+        <text>ech</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">PGJyPg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ZW5kaWYK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ZW5kaWYK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ZW5kaWY7Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">dmFyX2R1bXAoJF9TRVJWRVIpOwo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ZWNobyBmYWxzZTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">fQo=</text>
+      </register>
+      <register name="8" type="4">
+        <text encoding="base64">JGEgPSBbMSwyLDMsNCw1LCAibG9sIl07CmZvcmVhY2ggKCRhIGFzICRrZXkgPT4gJHZhbCl7CiAgICBlY2hvICJrZXk6IiAuICRrZXkgLiAidmFsOiIgLiAkdmFsIC4gIjxicj4iOw==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">CmVjaG8gIjxicj4iOwpmb3IgKCRpID0gMDsgJGk8NTsgJGkrKyl7CiAgICBlY2hvICRpIC4gIjxicj4iOwoKICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAogICAgLy8gb3Igc2VydmVyIGFyZSBpbnZvbHZlZCAtPiBzZWUgbXkgaW5zdGFsbC1kZWJ1ZyB0eHQgZmlsZSBmb3Igbm90ZXMgaG93IHRvIHNldCBpdCB1cCkKICAgIC8vIHNsZWVwKDEpOwp9CnBocGluZm8oKTsK</text>
+      </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>ech</last-search>
+      <last-offset />
+      <last-pattern>ech</last-pattern>
+      <last-dir>-1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry>shou</entry>
+        <entry>ech</entry>
+      </history-search>
+      <history-cmd>
+        <entry>2</entry>
+        <entry encoding="base64">JzwsJz4z</entry>
+        <entry>w</entry>
+        <entry>e!</entry>
+        <entry>q</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>
