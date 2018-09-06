@@ -41,12 +41,11 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536234806450">
-        <mark key="'" line="8" column="9" />
-        <mark key="[" line="8" column="1" />
-        <mark key="]" line="8" column="7" />
-        <mark key="." line="8" column="8" />
-        <mark key="^" line="8" column="7" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536235078972">
+        <mark key="[" line="15" column="23" />
+        <mark key="]" line="15" column="12" />
+        <mark key="." line="15" column="12" />
+        <mark key="^" line="15" column="12" />
       </file>
       <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
         <mark key="[" line="1" column="32" />
@@ -104,11 +103,12 @@
       <jump line="12" column="4" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="1" column="1" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="14" column="14" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="18" column="35" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="15" column="79" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="16" column="123" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="13" column="27" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="8" column="9" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="19" column="49" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="18" column="19" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -121,46 +121,46 @@
         <text>people</text>
       </register>
       <register name="/" type="4">
-        <text>sub</text>
+        <text>end</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0RlcmVrJzsK</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAvLyAoaWYgdGhlIGVuZCBpbmRleCBpcyBub3QgcmVhY2hhYmxlKQo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
       </register>
-      <register name="4" type="4">
-        <text>&quot;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">PGJyPg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;</text>
+      <register name="6" type="2">
+        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
       </register>
       <register name="7" type="4">
+        <text>&quot;&quot;</text>
+      </register>
+      <register name="8" type="4">
         <text encoding="base64">PGJyPg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBlY2hvIHN1YnN0cigkcGVyc29uLCAwLCAkbGVuKSAuIDxicj47Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>map</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>sub</last-search>
+      <last-search>end</last-search>
       <last-offset />
-      <last-pattern>sub</last-pattern>
+      <last-pattern>end</last-pattern>
       <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -176,6 +176,7 @@
         <entry>len</entry>
         <entry>go</entry>
         <entry>sub</entry>
+        <entry>end</entry>
       </history-search>
       <history-cmd>
         <entry>actions</entry>
@@ -186,7 +187,6 @@
         <entry>action CommentByLineComment</entry>
         <entry encoding="base64">bm5vcmVtYXAgWCAiX0Qg</entry>
         <entry encoding="base64">bm5vcmVtYXAgeCAiX2Qg</entry>
-        <entry>w</entry>
         <entry encoding="base64">eG1hcCBzIFMg</entry>
         <entry>xmap s</entry>
         <entry>vmap s</entry>
@@ -198,6 +198,7 @@
         <entry>nmap</entry>
         <entry>nmap s ys</entry>
         <entry>map</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
