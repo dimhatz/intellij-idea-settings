@@ -41,11 +41,11 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536236104456">
-        <mark key="'" line="8" column="9" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536236255049">
+        <mark key="'" line="17" column="26" />
         <mark key="[" line="8" column="11" />
         <mark key="]" line="8" column="11" />
-        <mark key="." line="8" column="8" />
+        <mark key="." line="17" column="25" />
         <mark key="^" line="8" column="11" />
       </file>
       <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
@@ -110,6 +110,7 @@
       <jump line="18" column="19" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="16" column="13" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="8" column="9" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="17" column="26" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -155,7 +156,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>nmap</text>
+        <text>vmap</text>
       </register>
     </registers>
     <search>
@@ -196,10 +197,10 @@
         <entry encoding="base64">dm5vcmVtYXAgdiA8Qy1WPiA=</entry>
         <entry encoding="base64">dm5vcmVtYXAgPEMtVj4gViA=</entry>
         <entry encoding="base64">dm5vcmVtYXAgViB2IA==</entry>
-        <entry>vmap</entry>
         <entry encoding="base64">bWFwIHYgPGMtdj4=</entry>
         <entry encoding="base64">bm5vcmVtYXAgUyA8bm9wPg==</entry>
         <entry>nmap</entry>
+        <entry>vmap</entry>
       </history-cmd>
       <history-expr />
       <history-input />
