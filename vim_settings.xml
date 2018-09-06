@@ -10,7 +10,7 @@
         <mark key="." line="2" column="9" />
         <mark key="^" line="2" column="9" />
       </file>
-      <file name="/Dummy.txt" timestamp="1535977170515">
+      <file name="/Dummy.txt" timestamp="1536230706921">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/phpstorm-workshop/workshop/02_Editing/01_Completion/1.1_Basic_Completion.php" timestamp="1535446712613">
@@ -38,12 +38,12 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536230014161">
-        <mark key="'" line="7" column="17" />
-        <mark key="[" line="7" column="10" />
-        <mark key="]" line="7" column="14" />
-        <mark key="." line="7" column="16" />
-        <mark key="^" line="7" column="10" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536230623450">
+        <mark key="'" line="14" column="9" />
+        <mark key="[" line="10" column="9" />
+        <mark key="]" line="12" column="16" />
+        <mark key="." line="12" column="16" />
+        <mark key="^" line="12" column="16" />
       </file>
       <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
         <mark key="[" line="1" column="32" />
@@ -98,6 +98,7 @@
       <jump line="13" column="24" filename="&lt;a0e508f8-a658-4975-ba82-96d8aae9127a&gt;/etc/apache2/sites-available/10-default_vhost_80.conf" />
       <jump line="12" column="6" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="7" column="17" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="11" column="9" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -115,32 +116,32 @@
       <register name="0" type="4">
         <text>Derek</text>
       </register>
-      <register name="1" type="4">
-        <text>''</text>
+      <register name="1" type="2">
+        <text encoding="base64">Ly8gJGFycgo=</text>
       </register>
       <register name="2" type="4">
+        <text>''</text>
+      </register>
+      <register name="3" type="4">
         <text>Derek</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">Pz4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Pz4K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">aGVhZGVyKCJMb2NhdGlvbjogbm93aGVyZS5waHAiKTsK</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">aGVhZGVyKCJMb2NhdGlvbjogbm93aGVyZS5waHAiKTsK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PGgxPnRlc3QxPC9oMT4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">PGgxPiB0ZXN0IDwvaDE+Cg==</text>
+        <text encoding="base64">PGgxPnRlc3QxPC9oMT4K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -173,6 +174,7 @@
         <entry>bn</entry>
         <entry>w</entry>
         <entry>bd</entry>
+        <entry>actions</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -195,6 +197,12 @@
       </shortcut-conflict>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed J</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
