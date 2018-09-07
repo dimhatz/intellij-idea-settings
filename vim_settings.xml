@@ -37,11 +37,12 @@
         <mark key="." line="17" column="7" />
         <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536339993999">
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536340312138">
         <mark key="'" line="0" column="2" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
     </filemarks>
     <jumps>
@@ -84,7 +85,7 @@
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>1536</text>
+        <text>asdf</text>
       </register>
       <register name="/" type="4">
         <text>php</text>
@@ -93,34 +94,34 @@
         <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">IiIK</text>
-      </register>
-      <register name="9" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">IiIK</text>
+      </register>
       <register name=":" type="4">
-        <text>set nohlsearch</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -128,7 +129,7 @@
       <last-offset />
       <last-pattern>php</last-pattern>
       <last-dir>1</last-dir>
-      <show-last>true</show-last>
+      <show-last>false</show-last>
     </search>
     <history>
       <history-search>
@@ -167,9 +168,9 @@
         <entry encoding="base64">bWFwIDxjLXM+</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGMtcz4gOnc8Y3I+</entry>
         <entry>update</entry>
-        <entry>w</entry>
         <entry>set hlsearch</entry>
         <entry>set nohlsearch</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -189,6 +190,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed K</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
