@@ -16,15 +16,15 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536341137050">
+      <file name="/Dummy.txt" timestamp="1536341534773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536341524693">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="13" />
-        <mark key="]" line="3" column="13" />
-        <mark key="^" line="9" column="0" />
-        <mark key="." line="3" column="13" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536342216109">
+        <mark key="'" line="3" column="6" />
+        <mark key="[" line="4" column="14" />
+        <mark key="]" line="4" column="14" />
+        <mark key="^" line="4" column="16" />
+        <mark key="." line="4" column="14" />
       </file>
       <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
@@ -98,57 +98,58 @@
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
       <jump line="0" column="107" filename="$USER_HOME$/PhpstormProjects/php-notes/public/000-phpstorm-settings.txt" />
       <jump line="1" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="4" column="11" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="4" column="52" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="3" column="6" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>_get</text>
+        <text>_POST</text>
       </register>
       <register name="/" type="4">
-        <text>th</text>
+        <text>pos</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LVhtczEwMjRtCi1YbXgyMDQ4bQotWFg6TWF4UGVybVNpemU9MTAyNG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKF9HRVQpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgIAo=</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IiIK</text>
+        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>th</last-search>
+      <last-search>pos</last-search>
       <last-offset />
-      <last-pattern>th</last-pattern>
+      <last-pattern>pos</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -172,10 +173,9 @@
         <entry>php</entry>
         <entry>and</entry>
         <entry>th</entry>
+        <entry>pos</entry>
       </history-search>
       <history-cmd>
-        <entry>set noh</entry>
-        <entry>nohlsearch</entry>
         <entry>set noincsearch</entry>
         <entry>set incsearch</entry>
         <entry>set hlse</entry>
@@ -184,7 +184,6 @@
         <entry encoding="base64">aW5vcmVtYXAgPEMtcz4gPEVTQz46dzxDUj4g</entry>
         <entry encoding="base64">bm1hcCA8ZXNjPg==</entry>
         <entry encoding="base64">bm5vcmVtYXAgPEMtcz4gPEVTQz46dzxDUj4g</entry>
-        <entry>map</entry>
         <entry encoding="base64">bm5vcmVtYXAgPEMtcz4gOnc8Q1I+IA==</entry>
         <entry encoding="base64">bWFwIDxjLXM+</entry>
         <entry encoding="base64">bm5vcmVtYXAgPGMtcz4gOnc8Y3I+</entry>
@@ -192,8 +191,11 @@
         <entry>set hlsearch</entry>
         <entry>set nohlsearch</entry>
         <entry>24</entry>
-        <entry>w</entry>
         <entry>th</entry>
+        <entry>map x</entry>
+        <entry>map</entry>
+        <entry>w</entry>
+        <entry>e ~/.ideavimrc</entry>
       </history-cmd>
       <history-expr />
       <history-input />
