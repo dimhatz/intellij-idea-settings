@@ -31,6 +31,13 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" timestamp="1536339120017">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="17" column="4" />
+        <mark key="]" line="17" column="4" />
+        <mark key="." line="17" column="4" />
+        <mark key="^" line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536337821022">
         <mark key="'" line="3" column="0" />
         <mark key="[" line="8" column="0" />
@@ -54,56 +61,68 @@
       <jump line="14" column="56" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
       <jump line="11" column="50" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
       <jump line="33" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="10" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="4" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="6" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="11" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="12" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="5" column="4" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="16" column="5" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="15" column="4" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="2" column="33" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">ZXZlbiA=</text>
+        <text>1536</text>
       </register>
       <register name="/" type="4">
-        <text>modif</text>
+        <text encoding="base64">XDxNYXhQZXJtU2l6ZVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">X0dFVFtdCg==</text>
+        <text encoding="base64">IiIK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpLT4pCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDEpOwo=</text>
+        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Ly8gTm90ZTogKG5vdCBzdXJlIHdoZXRoZXIgCg==</text>
+        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Ly8gZmFzdGNnaV9idWZmZXJpbmcgb2ZmOwovLyBmYXN0Y2dpX2tlZXBfY29ubiBvbjsgIyA8IHNvbHV0aW9uCi8vIHByb3h5X2J1ZmZlcmluZyBvZmY7Ci8vIGd6aXAgb2ZmOwoKCg==</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">X0dFVFtdCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpLT4pCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">b2JfZW5kX2NsZWFuKCk7IG9iX2VuZF9mbHVzaCgpOwo=</text>
+        <text encoding="base64">ICAgIHNsZWVwKDEpOwo=</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>set nohlsearch</text>
       </register>
     </registers>
     <search>
-      <last-search>modif</last-search>
+      <last-search encoding="base64">XDxNYXhQZXJtU2l6ZVw+</last-search>
       <last-offset />
-      <last-pattern>modif</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern encoding="base64">XDxNYXhQZXJtU2l6ZVw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -117,9 +136,22 @@
         <entry>ini</entry>
         <entry>at</entry>
         <entry>modif</entry>
+        <entry>xx</entry>
+        <entry>max</entry>
+        <entry encoding="base64">XDxSZXNlcnZlZENvZGVDYWNoZVNpemVcPg==</entry>
+        <entry encoding="base64">XDxVc2VDb21wcmVzc2VkT29wc1w+</entry>
+        <entry encoding="base64">XDxNYXhQZXJtU2l6ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
+        <entry>set ic</entry>
+        <entry>set noh</entry>
+        <entry>nohlsearch</entry>
+        <entry>set noincsearch</entry>
+        <entry>set incsearch</entry>
+        <entry>set hlse</entry>
+        <entry>set hlsearch</entry>
+        <entry>set nohlsearch</entry>
       </history-cmd>
       <history-expr />
       <history-input />
