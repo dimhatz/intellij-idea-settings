@@ -3,12 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1535889320635">
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1536339510382">
         <mark key="'" line="43" column="0" />
-        <mark key="[" line="41" column="16" />
-        <mark key="]" line="41" column="34" />
-        <mark key="." line="41" column="34" />
-        <mark key="^" line="41" column="34" />
+        <mark key="[" line="0" column="5" />
       </file>
       <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
@@ -31,19 +28,15 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" timestamp="1536339120017">
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" timestamp="1536339125101">
         <mark key="'" line="2" column="33" />
         <mark key="[" line="17" column="4" />
-        <mark key="]" line="17" column="4" />
-        <mark key="." line="17" column="4" />
-        <mark key="^" line="16" column="0" />
+        <mark key="]" line="17" column="7" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536337821022">
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536339513676">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="21" />
-        <mark key="^" line="7" column="20" />
-        <mark key="." line="8" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -88,34 +81,34 @@
         <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IiIK</text>
-      </register>
-      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
       <register name="3" type="2">
-        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
+        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
+        <text encoding="base64">IiIK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtIAo=</text>
+        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">X0dFVFtdCg==</text>
+        <text encoding="base64">VGhpcyBpcyBqdXN0IGEgdGVzdCB0byBjaGVjayBob3cgZmFzdCBpIGNhbgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpLT4pCg==</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT0yNDBtCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNsZWVwKDEpOwo=</text>
+        <text encoding="base64">LVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>set nohlsearch</text>
+        <text encoding="base64">aW1hcCA8Qy1zPiA8RVNDPjp3PENSPiA=</text>
       </register>
     </registers>
     <search>
@@ -152,12 +145,15 @@
         <entry>set hlse</entry>
         <entry>set hlsearch</entry>
         <entry>set nohlsearch</entry>
+        <entry encoding="base64">aW5vcmVtYXAgPEMtcz4gPEVTQz46dzxDUj4g</entry>
+        <entry encoding="base64">bWFwIDxDLXM+IDxFU0M+Onc8Q1I+IA==</entry>
+        <entry encoding="base64">aW1hcCA8Qy1zPiA8RVNDPjp3PENSPiA=</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
