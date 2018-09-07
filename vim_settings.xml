@@ -19,12 +19,12 @@
       <file name="/Dummy.txt" timestamp="1536341534773">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536342216109">
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536342332065">
         <mark key="'" line="3" column="6" />
-        <mark key="[" line="4" column="14" />
-        <mark key="]" line="4" column="14" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
         <mark key="^" line="4" column="16" />
-        <mark key="." line="4" column="14" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
@@ -116,22 +116,22 @@
         <text encoding="base64">LVhtczEwMjRtCi1YbXgyMDQ4bQotWFg6TWF4UGVybVNpemU9MTAyNG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKF9HRVQpOwo=</text>
+        <text encoding="base64">ICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
+        <text encoding="base64">ICAgIC8vIElmIGl0IGRvZXNuJ3QgYmVoYXZlIGxpa2UgdGhpcywgaXQgbWVhbnMgdGhhdCBidWZmZXJpbmcgaXMgZW5hYmxlZCAob3IgY29tcHJlc3Npb24gb3Igb3RoZXIgc2V0dGluZ3MgaW4gcGhwCiAgICAvLyBvciBzZXJ2ZXIgYXJlIGludm9sdmVkIC0+IHNlZSBteSBpbnN0YWxsLWRlYnVnIHR4dCBmaWxlIGZvciBub3RlcyBob3cgdG8gc2V0IGl0IHVwKQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgIHZhcl9kdW1wKF9HRVQpOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
@@ -140,7 +140,7 @@
         <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGVjaG8gJGkgLiAiPGJyPiI7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
