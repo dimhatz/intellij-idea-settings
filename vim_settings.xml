@@ -16,6 +16,16 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="/Dummy.txt" timestamp="1536341137050">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536341524693">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="13" />
+        <mark key="]" line="3" column="13" />
+        <mark key="^" line="9" column="0" />
+        <mark key="." line="3" column="13" />
+      </file>
       <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
       </file>
@@ -87,16 +97,19 @@
       <jump line="1" column="3" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
       <jump line="0" column="107" filename="$USER_HOME$/PhpstormProjects/php-notes/public/000-phpstorm-settings.txt" />
+      <jump line="1" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="4" column="52" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>My current file looks</text>
+        <text>_get</text>
       </register>
       <register name="/" type="4">
-        <text>and</text>
+        <text>th</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">LVhtczEwMjRtCi1YbXgyMDQ4bQotWFg6TWF4UGVybVNpemU9MTAyNG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMK</text>
@@ -133,10 +146,10 @@
       </register>
     </registers>
     <search>
-      <last-search>and</last-search>
+      <last-search>th</last-search>
       <last-offset />
-      <last-pattern>and</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>th</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
@@ -155,13 +168,12 @@
         <entry encoding="base64">XDxVc2VDb21wcmVzc2VkT29wc1w+</entry>
         <entry encoding="base64">XDxNYXhQZXJtU2l6ZVw+</entry>
         <entry>this</entry>
-        <entry>th</entry>
         <entry>ho</entry>
         <entry>php</entry>
         <entry>and</entry>
+        <entry>th</entry>
       </history-search>
       <history-cmd>
-        <entry>set ic</entry>
         <entry>set noh</entry>
         <entry>nohlsearch</entry>
         <entry>set noincsearch</entry>
@@ -181,6 +193,7 @@
         <entry>set nohlsearch</entry>
         <entry>24</entry>
         <entry>w</entry>
+        <entry>th</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -203,6 +216,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
