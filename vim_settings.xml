@@ -10,23 +10,7 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1536340134854">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="3" />
-        <mark key="." line="3" column="0" />
-      </file>
       <file name="/Dummy.txt" timestamp="1536341534773">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536342332065">
-        <mark key="'" line="3" column="6" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="0" />
-        <mark key="^" line="4" column="16" />
-        <mark key="." line="8" column="0" />
-      </file>
-      <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" timestamp="1535653524122">
@@ -34,6 +18,32 @@
         <mark key="." line="0" column="5" />
       </file>
       <file name="/fragment.php" timestamp="1535715392047">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1536340134854">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536346930400">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="117" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
+      </file>
+      <file name="/PHP Console" timestamp="1535889173335">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" timestamp="1536346943843">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
+      <file name="/HTML Fragment (debug.php:59).html" timestamp="1536346690135">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/homesteadtest/index.php" timestamp="1535796489254">
@@ -100,62 +110,64 @@
       <jump line="1" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="4" column="11" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="3" column="6" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="5" column="17" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" />
+      <jump line="26" column="8" filename="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" />
+      <jump line="3" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>_POST</text>
+        <text encoding="base64">SSA=</text>
       </register>
       <register name="/" type="4">
-        <text>pos</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">LVhtczEwMjRtCi1YbXgyMDQ4bQotWFg6TWF4UGVybVNpemU9MTAyNG0KLVhYOlJlc2VydmVkQ29kZUNhY2hlU2l6ZT01MTJtCi1YWDorVXNlQ29tcHJlc3NlZE9vcHMK</text>
+      <register name="0" type="4">
+        <text>https://stackoverflow.com/questions/29388626/how-to-speed-up-webstorm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMgaXMganVzdCBhIHRlc3QgdG8gc2VlIGhvdyBmYXN0IGkgY2FuIHR5cGUgdG8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIElmIGl0IGRvZXNuJ3QgYmVoYXZlIGxpa2UgdGhpcywgaXQgbWVhbnMgdGhhdCBidWZmZXJpbmcgaXMgZW5hYmxlZCAob3IgY29tcHJlc3Npb24gb3Igb3RoZXIgc2V0dGluZ3MgaW4gcGhwCiAgICAvLyBvciBzZXJ2ZXIgYXJlIGludm9sdmVkIC0+IHNlZSBteSBpbnN0YWxsLWRlYnVnIHR4dCBmaWxlIGZvciBub3RlcyBob3cgdG8gc2V0IGl0IHVwKQo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHZhcl9kdW1wKF9HRVQpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ZWNobyAkdGVzdDsK</text>
+        <text encoding="base64">PC9hPjwvaDE+IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ZWNobyAiPGgxPjxhIGhyZWYgPSBcIi4vdGVzdFwiPnRoaXMgaXMgc28gY29vbCAkaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGVjaG8gIjxoMT4gdGVzdCAkaSA8L2gxPiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAogICAgLy8gb3Igc2VydmVyIGFyZSBpbnZvbHZlZCAtPiBzZWUgbXkgaW5zdGFsbC1kZWJ1ZyB0eHQgZmlsZSBmb3Igbm90ZXMgaG93IHRvIHNldCBpdCB1cCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>pos</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>pos</last-pattern>
+      <last-pattern>1</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ECL</entry>
         <entry>eclipse</entry>
         <entry>ECLIPSE</entry>
         <entry>xdeb</entry>
@@ -174,6 +186,8 @@
         <entry>and</entry>
         <entry>th</entry>
         <entry>pos</entry>
+        <entry>http</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
         <entry>set noincsearch</entry>
@@ -194,8 +208,8 @@
         <entry>th</entry>
         <entry>map x</entry>
         <entry>map</entry>
-        <entry>w</entry>
         <entry>e ~/.ideavimrc</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
