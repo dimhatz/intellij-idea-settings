@@ -3,204 +3,212 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="C:/xampp/htdocs/xampp-project1/index.php" timestamp="1535352416775">
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/000-phpstorm-settings.txt" timestamp="1536341003199">
+        <mark key="'" line="0" column="107" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="11" column="20" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1536341534773">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" timestamp="1535653524122">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="2" column="5" />
-        <mark key="]" line="2" column="9" />
-        <mark key="." line="2" column="9" />
-        <mark key="^" line="2" column="9" />
+        <mark key="." line="0" column="5" />
       </file>
-      <file name="/Dummy.txt" timestamp="1536230706921">
+      <file name="/fragment.php" timestamp="1535715392047">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/phpstorm-workshop/workshop/02_Editing/01_Completion/1.1_Basic_Completion.php" timestamp="1535446712613">
-        <mark key="[" line="42" column="0" />
-        <mark key="]" line="42" column="0" />
-        <mark key="." line="42" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/phpstorm-workshop/workshop/06_Debugging/01_Simple_Breakpoint.php" timestamp="1535446063070">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="31" column="0" />
-        <mark key="." line="31" column="0" />
-      </file>
-      <file name="/a.dummy" timestamp="1536231106250">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/fragment.php" timestamp="1535960974982">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" timestamp="1535438055969">
-        <mark key="'" line="1869" column="6" />
-        <mark key="[" line="1871" column="6" />
-        <mark key="]" line="1871" column="0" />
-        <mark key="." line="1871" column="0" />
-        <mark key="^" line="1871" column="0" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1535960902411">
-        <mark key="[" line="41" column="4" />
-        <mark key="]" line="41" column="4" />
-        <mark key="." line="41" column="4" />
-      </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536236906898">
-        <mark key="'" line="8" column="3" />
-        <mark key="[" line="13" column="21" />
-        <mark key="]" line="13" column="25" />
-        <mark key="." line="13" column="25" />
-        <mark key="^" line="4" column="0" />
-      </file>
-      <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="86" />
-        <mark key="." line="1" column="86" />
-        <mark key="^" line="1" column="86" />
-      </file>
-      <file name="/PHP Console" timestamp="1535966303687">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="C:/xampp/htdocs/xampp3-localhost-inplace/index.php" timestamp="1535366651318">
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" timestamp="1536340134854">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="1" />
-        <mark key="." line="4" column="1" />
-        <mark key="^" line="4" column="1" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="3" />
+        <mark key="." line="3" column="0" />
       </file>
-      <file name="&lt;a0e508f8-a658-4975-ba82-96d8aae9127a&gt;/etc/apache2/sites-available/10-default_vhost_80.conf" timestamp="1535443428928">
-        <mark key="'" line="13" column="24" />
-        <mark key="[" line="8" column="3" />
-        <mark key="]" line="8" column="3" />
-        <mark key="." line="8" column="3" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536346930400">
+        <mark key="'" line="3" column="0" />
+        <mark key="[" line="4" column="117" />
+        <mark key="]" line="5" column="38" />
+        <mark key="." line="5" column="38" />
+        <mark key="^" line="5" column="38" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/01-install-debug-vagrant-homestead.txt" timestamp="1536229803386">
-        <mark key="[" line="0" column="47" />
+      <file name="/PHP Console" timestamp="1535889173335">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" timestamp="1536346943843">
+        <mark key="'" line="27" column="8" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="31" />
+        <mark key="^" line="1" column="31" />
+        <mark key="." line="1" column="31" />
+      </file>
+      <file name="/HTML Fragment (debug.php:59).html" timestamp="1536346690135">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/index.php" timestamp="1535796489254">
+        <mark key="[" line="0" column="5" />
+        <mark key="]" line="1" column="9" />
+        <mark key="^" line="1" column="9" />
+        <mark key="." line="1" column="9" />
+      </file>
+      <file name="C:/xampp/htdocs/xampptest/index.php" timestamp="1535722343175">
+        <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
-        <mark key="^" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/xampp/htdocs/xampp3-localhost-inplace/notes.txt" timestamp="1535367111008">
-        <mark key="'" line="2" column="0" />
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="34" />
-        <mark key="." line="11" column="34" />
-        <mark key="^" line="11" column="34" />
+      <file name="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" timestamp="1536340827924">
+        <mark key="'" line="2" column="33" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="20" column="21" />
+        <mark key="." line="17" column="7" />
+        <mark key="^" line="17" column="7" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/index.php" timestamp="1535966179425">
-        <mark key="[" line="1" column="24" />
-        <mark key="]" line="2" column="20" />
-        <mark key="." line="2" column="20" />
-        <mark key="^" line="2" column="20" />
+      <file name="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" timestamp="1536340312138">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="7" column="15" />
+        <mark key="]" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+        <mark key="^" line="7" column="15" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="2" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
-      <jump line="1" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
-      <jump line="0" column="0" filename="C:/xampp/htdocs/xampp-project1/index.php" />
-      <jump line="0" column="0" filename="C:/xampp/htdocs/xampp3-localhost-inplace/index.php" />
-      <jump line="2" column="0" filename="C:/xampp/htdocs/xampp3-localhost-inplace/notes.txt" />
-      <jump line="223" column="0" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" />
-      <jump line="1869" column="6" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.0/cli/php.ini" />
-      <jump line="13" column="24" filename="&lt;a0e508f8-a658-4975-ba82-96d8aae9127a&gt;/etc/apache2/sites-available/10-default_vhost_80.conf" />
-      <jump line="7" column="17" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="11" column="9" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="12" column="4" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="1" column="1" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="14" column="14" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="15" column="79" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="13" column="27" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="19" column="49" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="18" column="19" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="16" column="13" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="17" column="26" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="5" column="23" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
-      <jump line="8" column="3" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="888" column="47" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" />
+      <jump line="3" column="8" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" />
+      <jump line="17" column="43" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" />
+      <jump line="7" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" />
+      <jump line="0" column="0" filename="&lt;EditRemoteFileCredentialsDeployable{myServer.name=nullmyServer.id=null, myCredentials=null}&gt;/etc/php/7.2/cli/php.ini" />
+      <jump line="0" column="4" filename="C:/xampp/htdocs/xampptest/index.php" />
+      <jump line="6" column="0" filename="C:/xampp/htdocs/xampptest/index.php" />
+      <jump line="17" column="43" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" />
+      <jump line="25" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" />
+      <jump line="20" column="42" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="19" column="86" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="14" column="56" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="11" column="50" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="33" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="1" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="10" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="4" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="6" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="11" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="12" column="1" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="5" column="4" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="18" column="0" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="16" column="5" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="15" column="4" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="2" column="33" filename="$APPLICATION_CONFIG_DIR$/phpstorm64.exe.vmoptions" />
+      <jump line="5" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" />
+      <jump line="0" column="2" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/index.php" />
+      <jump line="4" column="25" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="5" column="28" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="10" column="22" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="1" column="3" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/homesteadtest/public/00-disable-output-buffering.php" />
+      <jump line="0" column="107" filename="$USER_HOME$/PhpstormProjects/php-notes/public/000-phpstorm-settings.txt" />
+      <jump line="1" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="4" column="11" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="0" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="5" column="17" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="4" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" />
+      <jump line="26" column="8" filename="$USER_HOME$/PhpstormProjects/php-notes/public/00-idea-phpstorm-settings.txt" />
+      <jump line="3" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;.&quot;</text>
-      </register>
-      <register name="+" type="4">
-        <text>&quot;&quot;</text>
+        <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text>people</text>
+        <text encoding="base64">SSA=</text>
       </register>
       <register name="/" type="4">
-        <text>end</text>
+        <text>1</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
+      <register name="0" type="4">
+        <text>https://stackoverflow.com/questions/29388626/how-to-speed-up-webstorm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMgaXMganVzdCBhIHRlc3QgdG8gc2VlIGhvdyBmYXN0IGkgY2FuIHR5cGUgdG8gCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZvcmVhY2ggKCRwZW9wbGUgYXMgJHBlcnNvbil7Cg==</text>
+        <text encoding="base64">PC9hPjwvaDE+IjsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyAoaWYgdGhlIGVuZCBpbmRleCBpcyBub3QgcmVhY2hhYmxlKQo=</text>
+        <text encoding="base64">ZWNobyAiPGgxPjxhIGhyZWYgPSBcIi4vdGVzdFwiPnRoaXMgaXMgc28gY29vbCAkaQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">ICAgIGVjaG8gIjxoMT4gdGVzdCAkaSA8L2gxPiIK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">JHBlb3BsZVtdID0gJ0onOwo=</text>
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
       </register>
-      <register name="9" type="4">
-        <text>&quot;&quot;</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAogICAgLy8gb3Igc2VydmVyIGFyZSBpbnZvbHZlZCAtPiBzZWUgbXkgaW5zdGFsbC1kZWJ1ZyB0eHQgZmlsZSBmb3Igbm90ZXMgaG93IHRvIHNldCBpdCB1cCkK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>end</last-search>
+      <last-search>1</last-search>
       <last-offset />
-      <last-pattern>end</last-pattern>
-      <last-dir>-1</last-dir>
+      <last-pattern>1</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>shou</entry>
-        <entry>ech</entry>
-        <entry>arr</entry>
-        <entry>pers</entry>
-        <entry>subs</entry>
-        <entry>we</entry>
-        <entry>ew</entry>
-        <entry>len</entry>
-        <entry>go</entry>
-        <entry>sub</entry>
-        <entry>end</entry>
+        <entry>eclipse</entry>
+        <entry>ECLIPSE</entry>
+        <entry>xdeb</entry>
+        <entry>XD</entry>
+        <entry>ini</entry>
+        <entry>at</entry>
+        <entry>modif</entry>
+        <entry>xx</entry>
+        <entry>max</entry>
+        <entry encoding="base64">XDxSZXNlcnZlZENvZGVDYWNoZVNpemVcPg==</entry>
+        <entry encoding="base64">XDxVc2VDb21wcmVzc2VkT29wc1w+</entry>
+        <entry encoding="base64">XDxNYXhQZXJtU2l6ZVw+</entry>
+        <entry>this</entry>
+        <entry>ho</entry>
+        <entry>php</entry>
+        <entry>and</entry>
+        <entry>th</entry>
+        <entry>pos</entry>
+        <entry>http</entry>
+        <entry>1</entry>
       </history-search>
       <history-cmd>
-        <entry encoding="base64">dm5vcmVtYXAgcyA8UGx1Zz5WU3Vycm91bmQg</entry>
-        <entry>nmap s ys</entry>
+        <entry>set noincsearch</entry>
+        <entry>set incsearch</entry>
+        <entry>set hlse</entry>
+        <entry encoding="base64">bWFwIDxDLXM+IDxFU0M+Onc8Q1I+IA==</entry>
+        <entry encoding="base64">aW1hcCA8Qy1zPiA8RVNDPjp3PENSPiA=</entry>
+        <entry encoding="base64">aW5vcmVtYXAgPEMtcz4gPEVTQz46dzxDUj4g</entry>
+        <entry encoding="base64">bm1hcCA8ZXNjPg==</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPEMtcz4gPEVTQz46dzxDUj4g</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPEMtcz4gOnc8Q1I+IA==</entry>
+        <entry encoding="base64">bWFwIDxjLXM+</entry>
+        <entry encoding="base64">bm5vcmVtYXAgPGMtcz4gOnc8Y3I+</entry>
+        <entry>update</entry>
+        <entry>set hlsearch</entry>
+        <entry>set nohlsearch</entry>
+        <entry>24</entry>
+        <entry>th</entry>
+        <entry>map x</entry>
         <entry>map</entry>
-        <entry encoding="base64">bm5vcmVtYXAgUyA8bm9wPiA=</entry>
-        <entry>mapleader</entry>
-        <entry encoding="base64">bm5vcmVtYXAgPFNwYWNlPiA8bm9wPg==</entry>
-        <entry>map S</entry>
-        <entry>nmap S</entry>
-        <entry encoding="base64">bm1hcCBTIDxub3A+</entry>
-        <entry encoding="base64">bm1hcCBTIDxub3A+IA==</entry>
-        <entry encoding="base64">dm5vcmVtYXAgdiA8Qy1WPiA=</entry>
-        <entry encoding="base64">dm5vcmVtYXAgPEMtVj4gViA=</entry>
-        <entry encoding="base64">dm5vcmVtYXAgViB2IA==</entry>
-        <entry encoding="base64">bWFwIHYgPGMtdj4=</entry>
-        <entry encoding="base64">bm5vcmVtYXAgUyA8bm9wPg==</entry>
-        <entry>nmap</entry>
-        <entry>vmap</entry>
-        <entry>nunmap</entry>
-        <entry>unmap</entry>
+        <entry>e ~/.ideavimrc</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
@@ -211,25 +219,22 @@
         <text>ctrl pressed S</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed W</text>
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed C</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed E</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed V</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="ide">
-        <text>ctrl pressed Q</text>
+        <text>ctrl pressed W</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed K</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
-        <text>ctrl pressed J</text>
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
