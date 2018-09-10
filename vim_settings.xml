@@ -31,7 +31,7 @@
         <mark key="^" line="11" column="20" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="/fragment.php" timestamp="1535715392047">
+      <file name="/fragment.php" timestamp="1536589786656">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/PhpstormProjects/homesteadtest/index.php" timestamp="1535796489254">
@@ -53,14 +53,14 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536564262617">
-        <mark key="'" line="49" column="8" />
-        <mark key="[" line="50" column="6" />
-        <mark key="]" line="50" column="7" />
-        <mark key="." line="50" column="7" />
-        <mark key="^" line="49" column="9" />
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536596892273">
+        <mark key="'" line="42" column="12" />
+        <mark key="[" line="2" column="21" />
+        <mark key="]" line="2" column="21" />
+        <mark key="." line="2" column="21" />
+        <mark key="^" line="2" column="21" />
       </file>
-      <file name="/PHP Console" timestamp="1535889173335">
+      <file name="/PHP Console" timestamp="1536589812407">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/HTML Fragment (debug.php:59).html" timestamp="1536346690135">
@@ -124,6 +124,11 @@
       <jump line="37" column="40" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="33" column="38" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
       <jump line="49" column="8" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="50" column="6" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="53" column="0" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="51" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="46" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
+      <jump line="42" column="12" filename="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -136,54 +141,53 @@
         <text>1;</text>
       </register>
       <register name="/" type="4">
-        <text>cla</text>
+        <text>iss</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">JG4gPSAxOwplY2hvICI0IiAuIChpc3NldCgkbik/ICIgc2V0IiA6ICIgbm9wZSIpOwplY2hvICI8YnI+IjsK</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewogICAgZWNobyAkaSAuICI8YnI+IjsKCi8vV2hlbiBvdXRwdXQgYnVmZmVyaW5nIGlzIGNvcnJlY3RseSBkaXNhYmxlZCwgdGhpcyB3aWxsIHJlc3VsdCBpbiBsaW5lLWJ5LWxpbmUgcHJpbnRpbmcgZWFjaCBzZWNvbmQgaW4gYnJvd3Nlci4KLy9JZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAovL29yIHNlcnZlciBhcmUgaW52b2x2ZWQgLT4gc2VlIG15IGluc3RhbGwtZGVidWcgdHh0IGZpbGUgZm9yIG5vdGVzIGhvdyB0byBzZXQgaXQgdXApCi8vc2xlZXAoMSk7CiAgICBpZiAoJGkgJSAyID09PSAwKXsKICAgICAgJHQgPSAkaTsKICAgIH0KfQpwaHBpbmZvKCk7Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="4">
         <text>&quot;&quot;</text>
       </register>
-      <register name="2" type="4">
+      <register name="4" type="4">
         <text>asdf</text>
       </register>
-      <register name="3" type="2">
+      <register name="5" type="2">
         <text encoding="base64">CmNsYXNzIFRlc3RkZGQgewogICAgcHVibGljICR6ID0gMDsKfQoKJGQgPSBuZXcgVGVzdGRkZCgpOwo=</text>
       </register>
-      <register name="4" type="2">
+      <register name="6" type="2">
         <text encoding="base64">CmNsYXNzIFRlc3RkZGQgewogICAgcHVibGljICR6ID0gMDsKfQoKJGQgPSBuZXcgVGVzdGRkZCgpOwo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="7" type="4">
         <text>{
     
 }</text>
       </register>
-      <register name="6" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgIHB1YmxpYyAkeiA9IDA7Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIGVjaG8gInRoaXMgaXMganVzdCBhICR0ZXN0IjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMganVzdCBhIHRlc3QgdG8gc2VlIGhvdyBmYXN0IGkgY2FuIHR5cGUgdG8gCg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgCg==</text>
+        <text encoding="base64">ICAgIGVjaG8gInRoaXMgaXMganVzdCBhICR0ZXN0IjsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>cla</last-search>
+      <last-search>iss</last-search>
       <last-offset />
-      <last-pattern>cla</last-pattern>
-      <last-dir>1</last-dir>
+      <last-pattern>iss</last-pattern>
+      <last-dir>-1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>ECLIPSE</entry>
         <entry>xdeb</entry>
         <entry>XD</entry>
         <entry>ini</entry>
@@ -203,6 +207,7 @@
         <entry>http</entry>
         <entry>1</entry>
         <entry>cla</entry>
+        <entry>iss</entry>
       </history-search>
       <history-cmd>
         <entry>set noincsearch</entry>
