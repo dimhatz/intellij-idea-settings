@@ -41,11 +41,11 @@
         <mark key="]" line="41" column="4" />
         <mark key="." line="41" column="4" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536236769595">
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536236906898">
         <mark key="'" line="8" column="3" />
-        <mark key="[" line="4" column="1" />
-        <mark key="]" line="4" column="7" />
-        <mark key="." line="8" column="2" />
+        <mark key="[" line="13" column="21" />
+        <mark key="]" line="13" column="25" />
+        <mark key="." line="13" column="25" />
         <mark key="^" line="4" column="0" />
       </file>
       <file name="C:/xampp/htdocs/xampp2/notes.txt" timestamp="1535360668903">
@@ -157,7 +157,7 @@
         <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
-        <text>vmap</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -192,7 +192,6 @@
         <entry>nmap S</entry>
         <entry encoding="base64">bm1hcCBTIDxub3A+</entry>
         <entry encoding="base64">bm1hcCBTIDxub3A+IA==</entry>
-        <entry>w</entry>
         <entry encoding="base64">dm5vcmVtYXAgdiA8Qy1WPiA=</entry>
         <entry encoding="base64">dm5vcmVtYXAgPEMtVj4gViA=</entry>
         <entry encoding="base64">dm5vcmVtYXAgViB2IA==</entry>
@@ -202,6 +201,7 @@
         <entry>vmap</entry>
         <entry>nunmap</entry>
         <entry>unmap</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
