@@ -26,12 +26,11 @@
         <mark key="]" line="3" column="3" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536346930400">
+      <file name="$USER_HOME$/PhpstormProjects/php-notes/public/debug.php" timestamp="1536425304565">
         <mark key="'" line="3" column="0" />
-        <mark key="[" line="4" column="117" />
-        <mark key="]" line="5" column="38" />
-        <mark key="." line="5" column="38" />
-        <mark key="^" line="5" column="38" />
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
       </file>
       <file name="/PHP Console" timestamp="1535889173335">
         <mark key="[" line="0" column="0" />
@@ -120,7 +119,7 @@
         <text encoding="base64">ZXZlbiA=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">SSA=</text>
+        <text encoding="base64">Y2xhc3Mg</text>
       </register>
       <register name="/" type="4">
         <text>1</text>
@@ -129,31 +128,31 @@
         <text>https://stackoverflow.com/questions/29388626/how-to-speed-up-webstorm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMganVzdCBhIHRlc3QgdG8gc2VlIGhvdyBmYXN0IGkgY2FuIHR5cGUgdG8gCg==</text>
+        <text encoding="base64">Y3VmdQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIHRoaXMgaXMgCg==</text>
+        <text encoding="base64">JHRzdCA9IG5ldyBUczsKZWNobyAkdHN0LT5hOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Ly8gaSBjYW4ganVzdCB0eXBlIGhlcmUgdG8gc2VlIGhvdyBmYXN0IHdld3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3d3cK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PC9hPjwvaDE+IjsK</text>
+        <text encoding="base64">Ly8gdGhpcyBpcyBqdXN0IGEgdGVzdCB0byBzZWUgCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ZWNobyAiPGgxPjxhIGhyZWYgPSBcIi4vdGVzdFwiPnRoaXMgaXMgc28gY29vbCAkaQo=</text>
+        <text encoding="base64">Ly8gdGhpcyBpcyBqdXN0IGEgdGVzdCB0byBzZWUgaG93IGZhc3QgaSBjYW4gdHlwZSB3aXRob3V0IG1ha2luZyBhbnkgbWlzdGFrZXMK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGVjaG8gIjxoMT4gdGVzdCAkaSA8L2gxPiIK</text>
+        <text encoding="base64">ZWNobyAkdHN0LT5hOwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
+        <text encoding="base64">JHRzdAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewo=</text>
+        <text encoding="base64">JHRzdC0+Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIFdoZW4gb3V0cHV0IGJ1ZmZlcmluZyBpcyBjb3JyZWN0bHkgZGlzYWJsZWQsIHRoaXMgd2lsbCByZXN1bHQgaW4gbGluZS1ieS1saW5lIHByaW50aW5nIGVhY2ggc2Vjb25kIGluIGJyb3dzZXIuCiAgICAvLyBJZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAogICAgLy8gb3Igc2VydmVyIGFyZSBpbnZvbHZlZCAtPiBzZWUgbXkgaW5zdGFsbC1kZWJ1ZyB0eHQgZmlsZSBmb3Igbm90ZXMgaG93IHRvIHNldCBpdCB1cCkK</text>
+        <text encoding="base64">ZWNobyAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
