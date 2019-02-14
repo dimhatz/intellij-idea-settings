@@ -71,11 +71,16 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="C:/xampp/htdocs/php-notes/public/debug.php" timestamp="1536597852929">
-        <mark key="[" line="6" column="9" />
-        <mark key="]" line="6" column="11" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="6" column="11" />
+      <file name="$APPLICATION_CONFIG_DIR$/scratches/scratch.txt" timestamp="1537857199061">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="15" column="0" />
+      </file>
+      <file name="C:/xampp/htdocs/php-notes/public/debug.php" timestamp="1537857180562">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="18" column="11" />
       </file>
     </filemarks>
     <jumps>
@@ -144,40 +149,40 @@
         <text>&quot;&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Z2xvYmFsIA==</text>
+        <text />
       </register>
       <register name="/" type="4">
         <text>iss</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">JG4gPSAxOwplY2hvICI0IiAuIChpc3NldCgkbik/ICIgc2V0IiA6ICIgbm9wZSIpOwplY2hvICI8YnI+IjsK</text>
+        <text encoding="base64">JW9wZW5GaWxlIEM6L3hhbXBwL2h0ZG9jcy9waHAtbm90ZXMvcHVibGljL2RlYnVnLnBocAoKJWRlbGF5VHlwZSAxNTB8PD9waHAKJVtFTlRFUl0KJWRlbGF5VHlwZSAxNTB8JGFudW1iZXIgPSAxOwolW0VOVEVSXQolZGVsYXlUeXBlIDE1MHxmdW5jdGlvbiBteSgpewolW0VOVEVSXQolZGVsYXlUeXBlIDE1MHxnbG9iYWwgJGFudW1iZXI7CiVbRU5URVJdCiVkZWxheVR5cGUgMTUwfCsrJGFudW1iZXI7CiVbRU5URVJdCiVkZWxheVR5cGUgMTUwfG15KCk7CiVbRU5URVJdCiVkZWxheVR5cGUgMTUwfGVjaG8gImEgaXM6IiAuICRhbnVtYmVyIC4gIiAiIC4gJGFudW1iZXI7CgoKCgoKCgoKCgoK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">PD9waHAKJGFudW1iZXIgPSAxOwpmdW5jdGlvbiBteSgpewogIGdsb2JhbCAkYW51bWJlcjsKICArKyRhbnVtYmVyOwogIG15KCk7CiAgZWNobyAiYSBpczoiIC4gJGFudW1iZXIgLiAiICIgLiAkYW51bWJlcjsKICAvLyBTYW1wbGUgdGV4dCBmb3IgdHlwaW5nIHNjZW5hcmlvCn0=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBnbG9iYWwgJGE7Cg==</text>
+        <text encoding="base64">JVtFTlRFUl0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICsrJGkpewogIGVjaG8gJGkgLiAiPGJyPiI7Ci8vICBzbGVlcCgxKTsKfQo=</text>
+        <text encoding="base64">JWRlbGF5VHlwZSAxNTB8Ly8gU2FtcGxlIHRleHQgZm9yIHR5cGluZyBzY2VuYXJpbwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewogICAgZWNobyAkaSAuICI8YnI+IjsKCi8vV2hlbiBvdXRwdXQgYnVmZmVyaW5nIGlzIGNvcnJlY3RseSBkaXNhYmxlZCwgdGhpcyB3aWxsIHJlc3VsdCBpbiBsaW5lLWJ5LWxpbmUgcHJpbnRpbmcgZWFjaCBzZWNvbmQgaW4gYnJvd3Nlci4KLy9JZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAovL29yIHNlcnZlciBhcmUgaW52b2x2ZWQgLT4gc2VlIG15IGluc3RhbGwtZGVidWcgdHh0IGZpbGUgZm9yIG5vdGVzIGhvdyB0byBzZXQgaXQgdXApCi8vc2xlZXAoMSk7CiAgICBpZiAoJGkgJSAyID09PSAwKXsKICAgICAgJHQgPSAkaTsKICAgIH0KfQpwaHBpbmZvKCk7Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>&quot;&quot;</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICBnbG9iYWwgJGE7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>asdf</text>
+      <register name="6" type="2">
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICsrJGkpewogIGVjaG8gJGkgLiAiPGJyPiI7Ci8vICBzbGVlcCgxKTsKfQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Zm9yICgkaSA9IDA7ICRpPDU7ICRpKyspewogICAgZWNobyAkaSAuICI8YnI+IjsKCi8vV2hlbiBvdXRwdXQgYnVmZmVyaW5nIGlzIGNvcnJlY3RseSBkaXNhYmxlZCwgdGhpcyB3aWxsIHJlc3VsdCBpbiBsaW5lLWJ5LWxpbmUgcHJpbnRpbmcgZWFjaCBzZWNvbmQgaW4gYnJvd3Nlci4KLy9JZiBpdCBkb2Vzbid0IGJlaGF2ZSBsaWtlIHRoaXMsIGl0IG1lYW5zIHRoYXQgYnVmZmVyaW5nIGlzIGVuYWJsZWQgKG9yIGNvbXByZXNzaW9uIG9yIG90aGVyIHNldHRpbmdzIGluIHBocAovL29yIHNlcnZlciBhcmUgaW52b2x2ZWQgLT4gc2VlIG15IGluc3RhbGwtZGVidWcgdHh0IGZpbGUgZm9yIG5vdGVzIGhvdyB0byBzZXQgaXQgdXApCi8vc2xlZXAoMSk7CiAgICBpZiAoJGkgJSAyID09PSAwKXsKICAgICAgJHQgPSAkaTsKICAgIH0KfQpwaHBpbmZvKCk7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3RkZGQgewogICAgcHVibGljICR6ID0gMDsKfQoKJGQgPSBuZXcgVGVzdGRkZCgpOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">CmNsYXNzIFRlc3RkZGQgewogICAgcHVibGljICR6ID0gMDsKfQoKJGQgPSBuZXcgVGVzdGRkZCgpOwo=</text>
+      <register name="9" type="4">
+        <text>&quot;&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -192,13 +197,6 @@
     </search>
     <history>
       <history-search>
-        <entry>xdeb</entry>
-        <entry>XD</entry>
-        <entry>ini</entry>
-        <entry>at</entry>
-        <entry>modif</entry>
-        <entry>xx</entry>
-        <entry>max</entry>
         <entry encoding="base64">XDxSZXNlcnZlZENvZGVDYWNoZVNpemVcPg==</entry>
         <entry encoding="base64">XDxVc2VDb21wcmVzc2VkT29wc1w+</entry>
         <entry encoding="base64">XDxNYXhQZXJtU2l6ZVw+</entry>
@@ -212,9 +210,15 @@
         <entry>1</entry>
         <entry>cla</entry>
         <entry>iss</entry>
+        <entry>anu</entry>
+        <entry>fun</entry>
+        <entry>sam</entry>
+        <entry>}</entry>
+        <entry>my</entry>
+        <entry>ech</entry>
+        <entry>sa</entry>
       </history-search>
       <history-cmd>
-        <entry>set noincsearch</entry>
         <entry>set incsearch</entry>
         <entry>set hlse</entry>
         <entry encoding="base64">bWFwIDxDLXM+IDxFU0M+Onc8Q1I+IA==</entry>
@@ -234,6 +238,7 @@
         <entry>map</entry>
         <entry>e ~/.ideavimrc</entry>
         <entry>w</entry>
+        <entry>e test.txt</entry>
       </history-cmd>
       <history-expr />
       <history-input />
